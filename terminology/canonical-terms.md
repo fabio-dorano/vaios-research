@@ -38,29 +38,29 @@ Each term has: name, definition, date, evidence, status.
 ### AI-native organization
 **Definition:** Organization where AI operates as governed agent with functional hierarchy, not as tool or object of governance. The AI is operator of the organizational system, not an object being governed.
 **Date:** 2026-02 · **Evidence:** VAIOS Protocol Spec v1.0
-**Status:** To formalize (paper pending)
+**Status:** Update term status — documented
 
 ### Constitutive governance
 **Definition:** Governance architecture where verification is an ontological property of creation, not a subsequent phase. No artifact is created without the evolutionary cycle that guarantees its integrity already existing and operational.
 **Date:** 2026-03-01 · **Evidence:** CFEA document
-**Status:** To formalize (paper pending)
+**Status:** Update term status — documented
 
 ### Cycle-first creation
 **Definition:** Design principle where no artifact is created without the evolutionary cycle that guarantees its integrity already existing and operational. Formal: Create(P) is valid iff Cycle(P) ∈ System.
 **Date:** 2026-03-01 · **Evidence:** CFEA document
-**Status:** To formalize (paper pending)
+**Status:** Update term status — documented
 
 ### Transversal cycle
 **Definition:** End-to-end operational sequence that spans multiple subsystems and is operated by multiple roles; visible only from a cross-domain governance perspective. No single charter owns it.
 **Date:** 2026-03-01 · **Evidence:** Ciclos de Evolução decision document
-**Status:** To formalize (paper pending)
+**Status:** Update term status — documented
 
 ### Governance instrument taxonomy
 **Definition:** Three-instrument system for governance design: guard rail (negative barrier, high risk), rule (positive instruction, standardization), cycle (periodic verification context). Application criteria are mutually exclusive.
 **Date:** 2026-03-01 · **Evidence:** CFEA document
-**Status:** To formalize (paper pending)
+**Status:** Update term status — documented
 
 ### Governance implementation drift
 **Definition:** The measurable divergence between codified organizational rules and their local instantiation across distributed units or agents.
 **Date:** 2026-03-01 · **Evidence:** Academic analysis (CFEA review)
-**Status:** To formalize (paper pending)
+**Status:** Update term status — documented
